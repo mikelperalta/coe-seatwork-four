@@ -17,4 +17,4 @@ var ta={
 value: 'aaaaaabbbbbbbccccccddddddeeeeeeeffffffggggggghhhhhhhh'
 };
 
-alert(lettercount(ta.value));
+console.log(lettercount(ta.value));
